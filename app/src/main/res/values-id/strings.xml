@@ -3888,7 +3888,7 @@ Sekarang Anda dapat menggunakan mode AutoGLM di antarmuka percakapan.</string>
     <string name="character_card_tool_access_empty_skills">Saat ini tidak ada Skill yang terlihat oleh AI</string>
     <string name="character_card_tool_access_empty_mcp">Saat ini tidak ada server MCP yang diaktifkan</string>
     <string name="character_card_tool_access_requires_use_package">Paket / Skill / MCP saat ini diizinkan, tetapi use_package belum diizinkan. Harap aktifkan use_package di alat bawaan terlebih dahulu</string>
-    <string name="character_card_tool_access_denied_runtime">Kartu karakter ini tidak mengizinkan penggunaan alat/sumber ini</string>
+    <string name="character_card_tool_access_denied_runtime">Alat/sumber ini tidak ada dalam daftar putih alat kartu karakter</string>
     <string name="character_card_custom_prompt">Prompt kustom</string>
     <string name="character_card_custom_prompt_placeholder">Prompt kustom lanjutan...</string>
     <string name="character_card_marks">Catatan</string>

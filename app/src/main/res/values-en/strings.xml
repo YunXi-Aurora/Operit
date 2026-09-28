@@ -4583,7 +4583,7 @@
     <string name="character_card_tool_access_search_placeholder">Search name, description, or ID</string>
     <string name="character_card_tool_access_empty_search">No matching tools found</string>
     <string name="character_card_tool_access_requires_use_package">Package / Skill / MCP access is selected, but use_package is not allowed yet. Please enable use_package in the Built-ins tab first.</string>
-    <string name="character_card_tool_access_denied_runtime">This role card is not allowed to use this tool/source</string>
+    <string name="character_card_tool_access_denied_runtime">This tool/source is not in the role card\'s tool whitelist</string>
     <string name="character_card_custom_prompt">Custom Prompt</string>
     <string name="character_card_custom_prompt_placeholder">Advanced custom prompt...</string>
     <string name="character_card_marks">Notes</string>

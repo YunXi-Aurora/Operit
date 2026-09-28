@@ -3954,7 +3954,7 @@ Ahora puede usar el modo AutoGLM en la interfaz de conversación.</string>
     <string name="character_card_tool_access_empty_skills">Actualmente no hay Skills visibles para la IA</string>
     <string name="character_card_tool_access_empty_mcp">Actualmente no hay servidores MCP habilitados</string>
     <string name="character_card_tool_access_requires_use_package">Actualmente se permiten Paquete / Skill / MCP, pero no se ha habilitado use_package. Actívalo primero en herramientas integradas.</string>
-    <string name="character_card_tool_access_denied_runtime">Esta tarjeta de personaje no permite usar esta herramienta/fuente</string>
+    <string name="character_card_tool_access_denied_runtime">Esta herramienta/fuente no está en la lista blanca de herramientas de la tarjeta de personaje</string>
     <string name="character_card_custom_prompt">Prompt personalizado</string>
     <string name="character_card_custom_prompt_placeholder">Prompt personalizado avanzado...</string>
     <string name="character_card_marks">Notas</string>

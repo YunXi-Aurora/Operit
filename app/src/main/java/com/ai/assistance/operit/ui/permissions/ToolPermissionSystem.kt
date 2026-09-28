@@ -269,7 +269,7 @@ class ToolPermissionSystem private constructor(private val context: Context) {
         val permissionResult =
             when (result) {
                 PermissionRequestResult.ALLOW -> ToolPermissionCheckResult.GRANTED
-                PermissionRequestResult.DENY -> ToolPermissionCheckResult.DENIED
+                PermissionRequestResult.DENY -> ToolPermissionCheckResult.DENIED_BY_USER
                 PermissionRequestResult.ALWAYS_ALLOW -> {
                     permissionRequestInfo?.first?.let { tool ->
                         CoroutineScope(Dispatchers.IO).launch {

@@ -3841,7 +3841,7 @@
     <string name="character_card_tool_access_empty_skills">현재 AI가 사용할 수 있는 스킬이 없습니다.</string>
     <string name="character_card_tool_access_empty_mcp">지금은 활성화된 MCP 서버가 없습니다.</string>
     <string name="character_card_tool_access_requires_use_package">패키지/스킬/MCP 액세스가 선택되었지만 use_package가 아직 허용되지 않았습니다. 내장 도구 탭에서 use_package를 활성화하세요.</string>
-    <string name="character_card_tool_access_denied_runtime">이 캐릭터 카드는 이 도구/소스를 사용할 수 없습니다.</string>
+    <string name="character_card_tool_access_denied_runtime">이 도구/소스는 캐릭터 카드 도구 허용 목록에 없습니다</string>
     <string name="character_card_custom_prompt">사용자 정의 프롬프트</string>
     <string name="character_card_custom_prompt_placeholder">고급 사용자 정의 프롬프트...</string>
     <string name="character_card_marks">참고사항</string>

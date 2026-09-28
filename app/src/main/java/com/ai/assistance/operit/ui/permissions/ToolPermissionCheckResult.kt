@@ -13,6 +13,10 @@ enum class ToolPermissionCheckResult(
         isGranted = false,
         errorMessageResId = R.string.tool_permission_execution_denied,
     ),
+    DENIED_BY_USER(
+        isGranted = false,
+        errorMessageResId = R.string.tool_permission_user_denied,
+    ),
     OVERLAY_PERMISSION_REQUIRED(
         isGranted = false,
         errorMessageResId = R.string.tool_permission_overlay_required_for_confirmation,

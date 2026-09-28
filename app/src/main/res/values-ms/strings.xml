@@ -3724,7 +3724,7 @@ Kini anda boleh menggunakan mod AutoGLM di antara muka perbualan.</string>
 
     <string name="character_card_tool_access_empty_mcp">Tiada pelayan MCP yang diaktifkan buat masa ini</string>
     <string name="character_card_tool_access_requires_use_package">Pakej / Skill / MCP telah dibenarkan, tetapi use_package belum dibenarkan. Sila aktifkan use_package dalam alat terbina dalam terlebih dahulu</string>
-    <string name="character_card_tool_access_denied_runtime">Kad watak ini tidak membenarkan penggunaan alat/sumber ini</string>
+    <string name="character_card_tool_access_denied_runtime">Alat/sumber ini bukan dalam senarai putih alat kad watak</string>
     <string name="character_card_custom_prompt">Petunjuk Tersuai</string>
     <string name="character_card_custom_prompt_placeholder">Petunjuk tersuai lanjutan...</string>
     <string name="character_card_marks">Catatan</string>

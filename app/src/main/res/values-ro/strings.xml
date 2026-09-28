@@ -4241,7 +4241,7 @@ Acum poate fi utilizat în interfața de dialog AutoGLM A devenit un model.</str
     <string name="character_card_tool_access_search_placeholder">Căutați după nume, descriere sau identificator</string>
     <string name="character_card_tool_access_empty_search">Nu s-au găsit instrumente corespunzătoare</string>
     <string name="character_card_tool_access_requires_use_package">Pachetele permise în prezent / Skill / MCP, dar nu a fost permis use_package, vă rugăm să îl activați mai întâi în instrumentul încorporat use_package</string>
-    <string name="character_card_tool_access_denied_runtime">Această carte de personaj nu permite utilizarea acestui instrument/Sursă</string>
+    <string name="character_card_tool_access_denied_runtime">Acest instrument/sursă nu este în lista albă de instrumente a cărții de personaj</string>
     <string name="character_card_custom_prompt">Cuvinte-cheie personalizate</string>
     <string name="character_card_custom_prompt_placeholder">Cuvinte-cheie personalizate avansate...</string>
     <string name="character_card_marks">Observații</string>
